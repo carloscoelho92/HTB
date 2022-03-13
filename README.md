@@ -1,4 +1,4 @@
 # HTB
-HTB awards
+Hack The Box awards
 
-https://www.hackthebox.com/achievement/challenge/855399/207
+Debugging Interface - https://www.hackthebox.com/achievement/challenge/855399/207
